@@ -31,6 +31,7 @@ Reach out to Dennis via email (dennis.s.lysenko AT gmail.com) if you have any qu
   s.social_media_url = 'https://twitter.com/dennislysenko'
 
   s.ios.deployment_target = '8.0'
+  s.osx.deployment_target = '10.8'
 
   s.source_files = 'FlexNetworking/FlexNetworking.swift'
   
