@@ -41,5 +41,5 @@ Reach out to Dennis via email (dennis.s.lysenko AT gmail.com) if you have any qu
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'SwiftyJSON', '~> 3.1.0'
+  s.dependency 'SwiftyJSON', '~> 2.4.0'
 end
